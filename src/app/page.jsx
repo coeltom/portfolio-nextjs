@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main className="h-[80vh] flex items-center px-10 justify-between">
       <div className="text-3xl font-bold">
-        <h1 className="">Hi! I'm Tomas,</h1>
+        <h1 className="">Hi! I&apos;m Tomas,</h1>
         <ReactTyped
           strings={['Web Developer', 'Frontend Developer']}
           typeSpeed={40}

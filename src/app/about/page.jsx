@@ -35,8 +35,7 @@ const AboutMe = () => {
             values innovation, collaboration, and quality.
           </p>
           <p className="text-lg">
-            {' '}
-            Let's connect and build something amazing together!
+            Let&apos;s connect and build something amazing together!
           </p>
         </div>
       </div>
